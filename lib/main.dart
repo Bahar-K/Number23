@@ -18,23 +18,3 @@ void main() {
   );
 }
 
-/*
-void main() {
-  runApp(
-    MaterialApp(
-      home: Scaffold(
-        backgroundColor: Color(0xffD7E0FF),
-        appBar: AppBar(
-          backgroundColor: Colors.purpleAccent,
-          title: Text('Mutlu Bayramlar'),
-          centerTitle: true, //appbardaki texti centerledik
-        ),
-        body: Center(
-          child: Image.asset('images/mutlu_bayramlar.jpg'),
-        ),
-      ),
-    ),materialapp
-  );
-}
-
- */
