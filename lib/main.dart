@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.black,
         appBar: AppBar(
           backgroundColor: Colors.black26,
-          title: Text('Favourite Movie'),
+          title: Text('My Favourite Movie'),
           centerTitle: true,
         ),
         body: Center(
